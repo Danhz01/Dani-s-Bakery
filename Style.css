@@ -1,11 +1,11 @@
   body {
-            background-image: url(Pan.jpg);
+            background-image:url(Pan.jpg);
             padding: 5px;
         }
 
         .body {
             margin: 10%;
-            background-color: transparent;
+            background-color:transparent;
             display: inline-block;
             position: relative;
             padding: 2px;
@@ -20,7 +20,7 @@
         }
 
         .titulo {
-            font-family: cursive;
+            font-family:cursive;
         }
 
         .contact {
@@ -31,7 +31,7 @@
         }
 
         .bar {
-            opacity: 0.9;
+            
             position: fixed;
             border-radius: 20%;
             z-index:1;
@@ -43,8 +43,4 @@
             padding: 7px;
         }
 
-        .list {
-            padding: 3px;
-            margin: 5px;
-            text-align: right;
-        }
+    
