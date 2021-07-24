@@ -61,5 +61,6 @@ li {
     font-size: larger;
 }
     .contact {weidth:80%;
-      align:center;
+      margin-left:auto;
+      margin-right:auto;
 }
