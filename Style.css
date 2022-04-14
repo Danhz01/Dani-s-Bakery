@@ -205,7 +205,7 @@ color: white;
     font-weight:bolder;
     border-radius: 10%;
      flex-wrap: wrap;
-     padding: 5rem;
+     padding: 1%;
 }
 .content{
     background-image: url(bread.jpg);
